@@ -1,0 +1,23 @@
+OSC Send IP Number
+127.0.0.1
+
+OSC Send Port
+7300
+
+OSC Receive Port
+7301
+
+Mirror Tracking
+false
+
+Stage Width
+1024
+
+Stage Height
+768
+
+Stage Depth
+1000
+
+Framerate
+60
